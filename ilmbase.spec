@@ -1,11 +1,11 @@
 Summary:	Base math and exception libraries from OpenEXR project
 Name:		ilmbase
-Version:	2.0.0
+Version:	2.0.1
 Release:	1
 License:	BSD
 Group:		Libraries
 Source0:	http://download.savannah.nongnu.org/releases/openexr/%{name}-%{version}.tar.gz
-# Source0-md5:	70f1413840c2a228783d1332b8b168e6
+# Source0-md5:	74c0d0d2873960bd0dc1993f8e03f0ae
 Patch0:		%{name}-link.patch
 URL:		http://www.openexr.com/
 BuildRequires:	autoconf
